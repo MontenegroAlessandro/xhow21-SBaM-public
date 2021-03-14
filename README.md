@@ -7,4 +7,4 @@ Project: "Pigasus on the Edge"
 
 Team: Alessandro Montenegro, Davide Sfameli, Tommaso Bo
 
-This is the private repository for the XHOW21 project "Pigasus on the Edge".
+This is the public repository for the XHOW21 project "Pigasus on the Edge".
